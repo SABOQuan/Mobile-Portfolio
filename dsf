@@ -1,0 +1,59 @@
+[33mcommit f665eca4964287a3d396d3a6b72c816cc3a20538[m[33m ([m[1;36mHEAD -> [m[1;32mContactUsBranch[m[33m, [m[1;31morigin/Work+AboutMyselfBranch[m[33m, [m[1;32mWork+AboutMyselfBranch[m[33m, [m[1;32mContactMeFTBranch[m[33m)[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Sat Sep 30 03:10:57 2023 -0700
+
+    Add fixed webhint error
+
+[33mcommit 3a34ffc33d6354525dd4bf2c4ef5757129db5c02[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Sat Sep 30 03:00:22 2023 -0700
+
+    Add Work and About Myself section of the mobile portfolio + some changes to Header and NavBar section in this branch
+
+[33mcommit 27c146992d84cec72aa89bcfe0066d9309f620b1[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Fri Sep 29 04:03:39 2023 -0700
+
+    Add elements in Work+AboutMyself branch
+
+[33mcommit 3afc4e2e702f3ae08bf75b366739d7f112ee877a[m[33m ([m[1;31morigin/HeaderANDnavBarBranch[m[33m, [m[1;32mHeaderANDnavBarBranch[m[33m)[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Thu Sep 28 09:22:06 2023 -0700
+
+    Add fixed more webhint errors in HEader and NavBar
+
+[33mcommit bae133f086329c21a4628056808ee0568f8225a3[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Thu Sep 28 09:18:12 2023 -0700
+
+    Add fixed errors and made changes in Header and NavBar
+
+[33mcommit 4470dbb4f07281fb3291f0d55b331031d93f34a9[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Thu Sep 28 09:14:39 2023 -0700
+
+    Add fixed errors in Header and NavBar (H+N)
+
+[33mcommit e82f0ffceabc5bc9a07d2c66d67b8e76b0cde686[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Thu Sep 28 09:07:31 2023 -0700
+
+    Add changes to Branch Header and NavBar (H+N)
+
+[33mcommit b1990eaf133fb2ef75f39cf9b5e759b2783c1ae3[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Thu Sep 28 05:04:57 2023 -0700
+
+    Add header and navbar in branch (H+N)
+
+[33mcommit e85ee6af9bb8817a5ac714123d631da9b844d831[m[33m ([m[1;32mmain[m[33m)[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Wed Sep 27 09:51:00 2023 -0700
+
+    Add Project Name
+
+[33mcommit 9a1d73d112438d453dfe5cb686613234d36e3df7[m
+Author: SABOQuan <angelysugar509@gmail.com>
+Date:   Wed Sep 27 09:48:31 2023 -0700
+
+    Add basic structure
