@@ -285,6 +285,21 @@ body {
   padding: 16px;
 }
 
+.contactme_button button {
+  color: #6070ff;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 3%;
+  text-align: center;
+  border-radius: 8px;
+  border-color: white;
+  padding-top: 12px;
+  padding-left: 16px;
+  padding-bottom: 12px;
+  padding-right: 16px;
+}
+
 .resume_button button:hover {
   background-color: #6070ff88;
   color: #fff;
@@ -337,4 +352,97 @@ body {
   padding-bottom: 24px;
   padding-left: 12px;
   padding-right: 12px;
+}
+
+.tiny {
+  max-width: 375px;
+  height: 779px;
+  margin-left: 24px;
+  margin-right: 24px;
+  padding-top: 114px;
+  padding-bottom: 114px;
+  padding-left: 24px;
+  padding-right: 24px;
+  background-image: url(contact\ form\ shapes-mobile.svg);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position: 35px 70px;
+  background-size: 100% 90%;
+  background-color: #6070ff;
+  border-top-left-radius: 70px;
+}
+
+.headlineCM {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  margin-top: 103px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  align-items: center;
+}
+
+.cm_para_i {
+  display: flex;
+  color: #ebebff;
+  word-wrap: break-word;
+  padding-left: 24px;
+  padding-right: 24px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.forms_contactme ul {
+  padding: 0;
+  margin-top: 15px;
+}
+
+.forms_contactme li {
+  list-style-type: none;
+  text-align: left;
+  padding-bottom: 20px;
+  padding-right: 24px;
+  background: transparent;
+  border: 1px;
+  border-color: #cfd8dc;
+  border-radius: 2px;
+}
+
+.form-input {
+  width: 100%;
+  padding-left: 24px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 8px;
+  border: 1px;
+  border-color: #cfd8dc;
+  border-radius: 8px;
+  background-color:
+    linear-gradient(0deg, #cfd8dc, #cfd8dc),
+    linear-gradient(0deg, #fff, #fff);
+}
+
+.text-input {
+  width: 100%;
+  height: 170px;
+  padding-left: 24px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 8px;
+  border: 1px;
+  border-color: #cfd8dc;
+  border-radius: 8px;
+  background-color:
+    linear-gradient(0deg, #cfd8dc, #cfd8dc),
+    linear-gradient(0deg, #fff, #fff);
+}
+
+.contactme_button button:hover {
+  background-color: #262f8288;
+  color: #fff;
 }
